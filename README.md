@@ -29,7 +29,7 @@ This Solidity smart contract defines a token called **"CATIZEN"** with the symbo
 
 ### Installing
 
-* You can my file at Github link:
+* You can my file at Github link: https://github.com/Russingkit/Celeste_Token/blob/main/myToken.sol
 
 ### Executing program
 
@@ -157,7 +157,7 @@ This Solidity smart contract defines a token called **"CATIZEN"** with the symbo
 
 This guide helps you compile, deploy, and interact with your smart contract, whether using Remix or a local development environment.
 
-## Authors
+## Author
 
 Contributors names and contact info
 
