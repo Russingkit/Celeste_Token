@@ -29,7 +29,7 @@ This Solidity smart contract defines a token called **"CATIZEN"** with the symbo
 
 ### Installing
 
-* You can my file at Github link: https://github.com/Russingkit/Celeste_Token/blob/main/myToken.sol
+* You can download my file at Github link: https://github.com/Russingkit/Celeste_Token/blob/main/myToken.sol
 
 ### Executing program
 
