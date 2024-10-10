@@ -1,4 +1,4 @@
-# TOKEN
+# MyToken
 
 ### Overview of the Code
 
