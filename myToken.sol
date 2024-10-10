@@ -5,8 +5,8 @@ import "@openzeppelin/contracts@4.9.0/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts@4.9.0/access/Ownable.sol";
 
 contract MyToken {
-    string public tokenName = "Catizen";      // Token name set as "Erc20" 
-    string public tokenAbbrv = "CATI";       // Token abbreviation set as "ETH"
+    string public tokenName = "Catizen";      // Token name set as "Catizen" 
+    string public tokenAbbrv = "CATI";       // Token abbreviation set as "CATI"
     uint public totalSupply = 0;            // Variable to track total supply
 
     // Mapping to store each address's token balance
